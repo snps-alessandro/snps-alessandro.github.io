@@ -1,0 +1,8 @@
+User-agent: *
+
+Disallow: /
+
+
+
+Sitemap: https://snps-alessandro.github.io/sitemap.xml
+
